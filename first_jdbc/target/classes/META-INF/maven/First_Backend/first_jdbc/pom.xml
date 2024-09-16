@@ -27,5 +27,6 @@
     <artifactId>mysql-connector-j</artifactId>
     <version>8.3.0</version>
 </dependency>
-  </dependencies>
+<!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
+</dependencies>
 </project>
